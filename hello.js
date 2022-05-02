@@ -1,6 +1,6 @@
-console.log("i dont know war eagle");
+console.log("hello");
 
-console.log("weegle weegle");
+console.log("this is my first attempt at programing!");
 
 
 let blah = -1; // integer 
